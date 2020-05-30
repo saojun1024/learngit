@@ -12,6 +12,6 @@ function b(){
 }
 
 function c(){
-  return '傻逼老板'
+  return '傻逼老板2'
 }
 
